@@ -145,8 +145,6 @@ Quantum computing architectures constantly struggle with the translation between
 
 ---
 
----
-
 ## ⚖️ License & Dual-Licensing Policy
 
 This project is open-source software licensed under the *GNU Affero General Public License v3.0 (AGPL-3.0)*.
