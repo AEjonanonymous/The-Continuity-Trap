@@ -169,7 +169,7 @@ Licensing Agent - J.E. Randolph 📧 [700josh.r@gmail.com](mailto:700josh.r@gmai
 
 * 📝 `The Continuity Trap - Bridging Finite-Field Algebraic Zero-Sets to Continuous Manifolds via Metric-Measure Polynomial Rigidity in Lean 4.pdf`
 
-Reed, Jonathan ƒ(n). (2026). The Continuity Trap - Bridging Finite-Field Algebraic Zero-Sets to Continuous Manifolds via Metric-Measure Polynomial Rigidity in Lean 4 (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.23812753
+Reed, Jonathan ƒ(n). (2026). The Continuity Trap - Bridging Finite-Field Algebraic Zero-Sets to Continuous Manifolds via Metric-Measure Polynomial Rigidity in Lean 4 (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.23934592
 
 ---
 
